@@ -1,0 +1,1 @@
+<img src="your-photo.jpg"alt="My Photo">
