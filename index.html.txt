@@ -1,1 +1,41 @@
-<img src="your-photo.jpg"alt="My Photo">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ekta Dagar - Personal Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Welcome to My Personal Profile</h1>
+
+    <img src="photo.jpg.jpeg" alt="Ekta Dagar Profile Photo" width="200">
+
+    <h2>Name</h2>
+    <p>My name is Ekta Dagar.</p>
+
+    <h2>College Name</h2>
+    <p>I am pursuing Bachelor of Computer Applications (BCA) from Maharshi Dayanand University (MDU), Rohtak.</p>
+
+    <h2>Career Goal</h2>
+    <p>My career goal is to become a successful IT professional. I want to improve my programming and web development skills and build a bright future in the technology field.</p>
+
+    <h2>About Me</h2>
+    <p>I enjoy learning HTML, CSS, programming, and new technologies. I also like helping others, creating content, and improving my technical skills through practice and projects.</p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Basic C Programming</li>
+        <li>Video Editing</li>
+        <li>Content Writing</li>
+    </ul>
+
+    <h2>Visit My Favorite Website</h2>
+    <a href="https://github.com" target="_blank">Visit GitHub</a>
+
+</body>
+</html>
